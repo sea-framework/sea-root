@@ -42,7 +42,7 @@
         <dubbo.version>2.5.3</dubbo.version>
         <apache.dubbo.version>2.7.6</apache.dubbo.version>
 
-        <zookeeper.version>3.4.10</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <disruptor.version>3.4.1</disruptor.version>
 
 
