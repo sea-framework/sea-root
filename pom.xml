@@ -33,7 +33,7 @@
         <maven.test.skip>true</maven.test.skip>
 
         <commons.email>1.5</commons.email>
-        <bcprov.version>1.62</bcprov.version>
+        <bcprov.version>1.67</bcprov.version>
         <fastjson.version>1.2.58</fastjson.version>
         <fasterxml.jackson>2.8.2</fasterxml.jackson>
         <powermock.version>1.4.12</powermock.version>
