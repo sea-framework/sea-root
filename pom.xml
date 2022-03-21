@@ -39,7 +39,7 @@
         <powermock.version>1.4.12</powermock.version>
 
         <druid.version>1.1.16</druid.version>
-        <dubbo.version>2.5.3</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <apache.dubbo.version>2.7.6</apache.dubbo.version>
 
         <zookeeper.version>3.4.10</zookeeper.version>
